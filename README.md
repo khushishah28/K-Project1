@@ -1,2 +1,2 @@
 # K-Project1
-This is my first github project.
+This is my first github Repository.
